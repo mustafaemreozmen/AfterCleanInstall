@@ -35,6 +35,10 @@ brew install --cask vlc
 brew install --cask whatsapp
 brew install --cask postman
 brew install --cask remote-desktop-manager
+brew install --cask jetbrains-toolbox
+brew install --cask maccy
+brew install --cask pika
+
 
 #Done Message
 
