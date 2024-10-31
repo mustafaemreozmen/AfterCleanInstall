@@ -38,7 +38,7 @@ brew install --cask remote-desktop-manager
 brew install --cask jetbrains-toolbox
 brew install --cask maccy
 brew install --cask pika
-
+brew install nvm
 
 #Done Message
 
